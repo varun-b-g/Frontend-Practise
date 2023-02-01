@@ -1,0 +1,23 @@
+.center{
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+.out {
+    text-align: center;
+    background-color: white;
+    width: 20%;
+    padding: 20px;
+    margin-left: 20em;
+}
+
+.container {
+    width: 80%;
+    height: 60%;
+    background-color: hsl(212, 45%, 89%);
+    margin-left: auto;
+    margin-right: auto;
+    margin-top: auto;
+    margin-bottom: auto;
+}
